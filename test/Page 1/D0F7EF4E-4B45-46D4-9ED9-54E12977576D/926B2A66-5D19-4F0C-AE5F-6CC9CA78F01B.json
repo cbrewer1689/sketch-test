@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "34A0B8CB-BBDB-4210-BD4A-46662E941A79",
+  "do_objectID": "926B2A66-5D19-4F0C-AE5F-6CC9CA78F01B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,49 +15,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 248,
+    "width": 248,
+    "x": 446,
+    "y": 96
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -741,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "symbolMaster",
-      "id": "68D55363-AFA6-46DB-B949-A7F7A0D650AD"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "875049DB-742D-468C-BC36-915458BC1C29"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "CA015073-60E4-4771-AD4E-40958466C6CA"
-    }
-  ],
   "maintainScrollPosition": false,
-  "name": "Symbols",
+  "name": "Rectangle",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -93,7 +72,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "416A048C-9FAD-4316-84C3-448E27632CD4",
+    "do_objectID": "285349C6-1030-4228-AAA1-F0A48410F35B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -105,10 +84,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -535,
-    "guides": [
-    ]
-  }
+  "symbolID": "B930A799-51A5-4D6E-AB37-E5AEA5691394",
+  "verticalSpacing": 0
 }

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 299,
   "clippingMaskMode": 0,
   "do_objectID": "68D55363-AFA6-46DB-B949-A7F7A0D650AD",
   "exportOptions": {
@@ -54,12 +54,12 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "1599012D-A8C4-45D8-8C00-6F9C03B5969D"
+      "id": "13E64129-88FD-4F6F-8BDF-3FE9D5D758C0"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Rectangle",
-  "nameIsFixed": false,
+  "name": "Old Rectangle",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "presetDictionary": {

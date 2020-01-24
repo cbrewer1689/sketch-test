@@ -1,8 +1,17 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "34A0B8CB-BBDB-4210-BD4A-46662E941A79",
+  "do_objectID": "CA015073-60E4-4771-AD4E-40958466C6CA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,50 +24,51 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
+    "height": 262,
+    "width": 262,
+    "x": 448,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -741,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "68D55363-AFA6-46DB-B949-A7F7A0D650AD"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "875049DB-742D-468C-BC36-915458BC1C29"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "CA015073-60E4-4771-AD4E-40958466C6CA"
+      "class": "oval",
+      "id": "5E1650D2-E248-4D27-B073-3864F58C1242"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Symbols",
+  "name": "Oval",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -93,7 +103,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "416A048C-9FAD-4316-84C3-448E27632CD4",
+    "do_objectID": "2E8BDF5E-CA3B-416E-A56F-0545D260B6F3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -105,9 +115,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "C8B2CD3F-94FB-4060-8249-718400138544",
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -535,
+    "base": 0,
     "guides": [
     ]
   }

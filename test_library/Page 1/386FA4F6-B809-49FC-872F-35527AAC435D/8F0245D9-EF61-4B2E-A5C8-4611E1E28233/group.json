@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "34A0B8CB-BBDB-4210-BD4A-46662E941A79",
+  "do_objectID": "8F0245D9-EF61-4B2E-A5C8-4611E1E28233",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,45 +15,30 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 248,
+    "width": 248,
+    "x": 289,
+    "y": 346
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -741,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "68D55363-AFA6-46DB-B949-A7F7A0D650AD"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "875049DB-742D-468C-BC36-915458BC1C29"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "CA015073-60E4-4771-AD4E-40958466C6CA"
+      "class": "rectangle",
+      "id": "4EFADBC4-B3B7-4E54-B247-6B0CAA82BC18"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Symbols",
+  "name": "Rectangle Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -93,7 +78,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "416A048C-9FAD-4316-84C3-448E27632CD4",
+    "do_objectID": "DB011914-AA08-42DC-8D8D-92A10B9B78E1",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,11 +89,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -535,
-    "guides": [
-    ]
   }
 }
