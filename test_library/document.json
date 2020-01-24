@@ -1,0 +1,46 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "77784645-4261-4F5E-B723-7CB882FABD0E",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "D2CF3C6E-0CED-45E3-B089-510C96FD730B",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "61.2",
+    "build": 89653,
+    "version": 121
+  },
+  "pages": [
+    "Page 1",
+    "Symbols"
+  ]
+}

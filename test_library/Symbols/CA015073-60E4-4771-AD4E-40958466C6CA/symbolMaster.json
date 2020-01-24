@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "D0F7EF4E-4B45-46D4-9ED9-54E12977576D",
+  "do_objectID": "CA015073-60E4-4771-AD4E-40958466C6CA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 535,
-    "width": 775,
-    "x": 129,
-    "y": 208
+    "height": 262,
+    "width": 262,
+    "x": 448,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -40,6 +42,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -50,25 +53,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "2CFC0F97-D80D-4C38-ADDA-4027E0A7EA1D"
-    },
-    {
-      "class": "rectangle",
-      "id": "DCC9FB83-5DF9-4FF8-9E03-F81126876F53"
-    },
-    {
-      "class": "rectangle",
-      "id": "4581A488-0E00-4C24-89C8-0E63C9099616"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "93479436-8374-4E6D-83D8-CCC74A2762DC"
+      "class": "oval",
+      "id": "5E1650D2-E248-4D27-B073-3864F58C1242"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Artboard",
+  "name": "Oval",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "presetDictionary": {
   },
   "resizesContent": false,
@@ -110,7 +103,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "8A1EFE89-0AD7-4E6D-BB1C-3FF906EBF96B",
+    "do_objectID": "2E8BDF5E-CA3B-416E-A56F-0545D260B6F3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -122,6 +115,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "C8B2CD3F-94FB-4060-8249-718400138544",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D0F7EF4E-4B45-46D4-9ED9-54E12977576D",
+  "do_objectID": "71ED1DAD-EC61-4F0D-8E67-73D89CC7C67B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 535,
-    "width": 775,
-    "x": 129,
-    "y": 208
+    "height": 671,
+    "width": 825,
+    "x": 461,
+    "y": 157
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,25 +50,13 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "2CFC0F97-D80D-4C38-ADDA-4027E0A7EA1D"
-    },
-    {
-      "class": "rectangle",
-      "id": "DCC9FB83-5DF9-4FF8-9E03-F81126876F53"
-    },
-    {
-      "class": "rectangle",
-      "id": "4581A488-0E00-4C24-89C8-0E63C9099616"
-    },
-    {
       "class": "symbolInstance",
-      "id": "93479436-8374-4E6D-83D8-CCC74A2762DC"
+      "id": "187DFBA7-28D5-4C24-B30C-5BED79D5A034"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "Square Artboard",
+  "nameIsFixed": true,
   "presetDictionary": {
   },
   "resizesContent": false,
@@ -110,7 +98,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "8A1EFE89-0AD7-4E6D-BB1C-3FF906EBF96B",
+    "do_objectID": "309ED34F-E7EF-4BB2-A0A7-BD0BCDA60ADE",
     "endMarkerType": 0,
     "fills": [
     ],
